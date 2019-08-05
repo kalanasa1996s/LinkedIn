@@ -1,0 +1,20 @@
+{
+  "name": "linkin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kalanasasanka"
+  },
+  "author": "Kalanasasanka",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "css": "^2.2.4",
+    "js": "^0.1.0"
+  }
+}
